@@ -1,0 +1,30 @@
+# Core dependencies
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+joblib
+pillow
+tqdm
+seaborn
+
+# PyTorch related
+torch
+torchvision
+tensorboard
+
+# Custom packages
+FrEIA
+thop
+
+# ML tools
+umap-learn
+numba
+
+# Image processing
+opencv-python
+
+# Statistics
+statsmodels
+patsy
