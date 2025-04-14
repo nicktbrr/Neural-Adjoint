@@ -184,13 +184,6 @@ def read_data_ensemble_MM(flags, eval_data_all=False):
 def read_data(flags, eval_data_all=False):
     """
     The data reader allocator function
-    The input is categorized into couple of different possibilities
-    0. meta_material
-    1. gaussian_mixture
-    2. sine_wave
-    3. naval_propulsion
-    4. robotic_arm
-    5. ballistics
     :param flags: The input flag of the input data set
     :param eval_data_all: The switch to turn on if you want to put all data in evaluation data
     :return:
