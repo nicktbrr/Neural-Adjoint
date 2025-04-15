@@ -21,6 +21,7 @@ thop
 # ML tools
 umap-learn
 numba
+mlflow
 
 # Image processing
 opencv-python
