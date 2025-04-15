@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+src/.DS_Store
+src/models/.DS_Store
+mlflow.db
 __pycache__/
 *.py[cod]
 *$py.class
